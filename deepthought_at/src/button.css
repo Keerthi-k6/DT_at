@@ -1,0 +1,16 @@
+.arrow
+{
+    color:black;
+    padding: 3px;
+    border-radius: 50%;
+    background: white;
+    letter-spacing: 0.02em;
+    text-align: center;
+    cursor: pointer;
+}
+.last-ic
+{
+    border-radius: 50%;
+    height: 60px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+}

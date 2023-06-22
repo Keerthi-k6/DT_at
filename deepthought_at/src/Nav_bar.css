@@ -1,0 +1,27 @@
+.nav-icon
+{
+    color:white;
+    padding: 3px;
+    font-size: 15px;
+    border-radius: 50%;
+     background: #3683F0;
+    font-weight: 900;
+    line-height: 26px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    width: 30px;
+    height: 32.37px;
+    cursor: pointer;
+
+}
+h4
+{
+    margin: 0;
+    color:'#0029ff' ;
+    font-style: normal;
+font-weight: bolder;
+font-size: 25px;
+line-height: 42px;
+color: #0029ff;
+text-align: center;
+}

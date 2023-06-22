@@ -1,0 +1,17 @@
+
+.mainCardClose
+{
+    width: 5%;
+    transition: 850ms;
+}
+.mainCardOpen
+{
+    width:32%;
+    transition: 850ms;
+}
+.headerclose
+{
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
